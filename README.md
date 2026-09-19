@@ -1,29 +1,42 @@
 # Claude 35-Day Journey
 
-This repository is a structured 35-day learning and build journey focused on building practical AI, coding, and product skills with Claude.
+This repository documents my 35-day learning journey focused on understanding and using Claude as a practical AI partner for development, research, and building real-world projects.
+
+## Overview
+
+This journey is not about learning theory alone. It is about experimenting with Claude in meaningful ways:
+
+- software development
+- code analysis and debugging
+- research assistance
+- workflow optimization
+- AI-powered project building
+- tool integration and automation
 
 ## Repository structure
 
-- `Day-01` to `Day-35`: daily learning notes, experiments, and progress
-- `projects/`: mini-projects and the final capstone project
-- `experiments/`: isolated experiments and prototypes
-- `resources/`: references, tools, and study materials
+- `Day-01` to `Day-35`: daily learning notes, experiments, and reflections
+- `docs/`: supporting notes, roadmap, and curated learnings
+- `projects/`: mini-projects and final project work
+- `experiments/`: prototypes, prompts, and exploratory tryouts
+- `resources/`: references and useful materials
 
-## Goals
+## Current focus
 
-- Learn consistently for 35 days
-- Build hands-on projects with real outcomes
-- Capture progress and lessons learned
-- Produce a polished final project by the end of the challenge
+- Day 01: understanding Claude and AI-assisted workflows
+- Future days: context engineering, Claude Code, tools, workflows, and application building
 
-## Suggested workflow
+## Quick links
 
-1. Read the daily task in the matching day folder.
-2. Complete the exercises or mini-project.
-3. Record your findings in the day's README or notes.
-4. Save reusable assets in `resources/` and experiments in `experiments/`.
-5. Build toward the final project in `projects/final-project/`.
+- [Day 01](Day-01/README.md)
+- [Documentation index](docs/README.md)
+- [Learning roadmap](docs/learning-roadmap.md)
+- [Claude overview notes](docs/claude-overview.md)
+
+## Goal
+
+The main objective is to move from casual AI usage to intentional, high-context, workflow-driven usage where AI becomes a collaborator rather than a shortcut.
 
 ---
 
-This repo is intentionally simple and extensible so you can grow it over time.
+Learn → Experiment → Build → Document → Improve
